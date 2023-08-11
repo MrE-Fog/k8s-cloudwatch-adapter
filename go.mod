@@ -3,7 +3,7 @@ module github.com/awslabs/k8s-cloudwatch-adapter
 go 1.14
 
 require (
-	github.com/aws/aws-sdk-go v1.33.5
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/kubernetes-incubator/custom-metrics-apiserver v0.0.0-20200323093244-5046ce1afe6b
 	github.com/pkg/errors v0.9.1
 	k8s.io/apimachinery v0.20.0
